@@ -2,9 +2,9 @@
 VR Beat Saber for Table Tennis <br>
 Final Project for CS4240 - Interaction Design for VR and AR <br>
 <br>
-![Cover](Docs/cover.png)
+![Cover](images/cover.png)
 <br>
-![Ribs](Docs/ribs.png)
+![Ribs](images/ribs.png)
 <br>
 **Authors:** <br>
 Bu Wen Jin  
@@ -48,19 +48,19 @@ Concept by [STUCK Design](https://www.stuck.sg)
 - Always be wary of any wires connected to the headset.
 
 ### Gameplay
-![Burst](Docs/burst.png)
+![Burst](images/burst.png)
 <br>
 HyperPong immerses you in a world where only two things matter: spinning balls and feeling the beat. 
 Spawn balls using the left grip button and grab that table tennis paddle on the floor using the right grip button and start playing! 
 <br>
-![Menu](Docs/menu.png)
+![Menu](images/menu.png)
 <br>
 All our interactive menus are triggered by hitting the ball into the selection hoops so you're sure to get that practice time in! 
 If you are new, there is always the tutorial to guide you through. But fret not, it is as easy as 1 2 3, bound to get you to start playing in under a minute! Now what are you waiting for? Get in there, groove to fantastic music and play some HyperPong!
 
 ### Controls
 #### Oculus Quest / Quest 2
-![Controls](Docs/controls.png)
+![Controls](images/controls.png)
 **LH**<br>
 - Joystick: snap rotate field of view
 - Left Grip: Spawn and hold on to ping pong ball
@@ -73,7 +73,7 @@ If you are new, there is always the tutorial to guide you through. But fret not,
 - A: [Debug] Start recording gesture for training (held ball turns blue)
 
 #### How to create a new spinning gesture and train the ML model to recognise it
-![Gesture Menu](Docs/gestureMenu.png)
+![Gesture Menu](images/gestureMenu.png)
 <br>
 - S is the number of saved samples
 - T is the number of trained samples that have not been saved
