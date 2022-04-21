@@ -2,6 +2,8 @@
 VR Beat Saber for Table Tennis <br>
 Final Project for CS4240 - Interaction Design for VR and AR <br>
 <br>
+https://user-images.githubusercontent.com/48405991/164476234-a83ee074-497c-4d5c-96f6-443122c4b3b5.mp4
+<br>
 ![Cover](images/cover.png)
 <br>
 ![Ribs](images/ribs.png)
